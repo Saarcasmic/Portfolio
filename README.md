@@ -1,6 +1,6 @@
 # Portfolio Web Application
 
-This is a portfolio web application built using HTML and CSS. It showcases your work, skills, and provides a way for potential clients or employers to learn more about you and your projects. <a href="https://harshkashyapportfolio.netlify.app/">View the website</a>
+This is a portfolio web application built using HTML and CSS. It showcases your work, skills, and provides a way for potential clients or employers to learn more about you and your projects. <a href="https://saarcasmic.netlify.app/">View the website</a>
 
 ## Features
   
@@ -11,7 +11,7 @@ This is a portfolio web application built using HTML and CSS. It showcases your 
  
 ## Installation
 
-1. Clone the repository: ` git clone https://github.com/Harsh23Kashyap/Portfolio.git`
+1. Clone the repository: ` git clone https://github.com/saarcasmic/Portfolio.git`
 2. Navigate to the project directory: `cd portfolio-web-app`
 3. Open `index.html` in your preferred web browser.
 
@@ -31,12 +31,3 @@ This is a portfolio web application built using HTML and CSS. It showcases your 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
-
-
-![Main Page](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS1.png)
-![Resume](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS2.png)
-![Projects](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS6.png)
-![Certifications](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS3.png)
-![Extra](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS4.png)
-![Contact](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS5.png)
-
