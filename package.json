@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "autoprefixer": "^10.4.22",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.17",
+    "typescript": "~5.9.3",
+    "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "framer-motion": "^12.23.26",
+    "lucide-react": "^0.555.0",
+    "matter-js": "^0.20.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "swiper": "^12.0.3"
+  }
+}
